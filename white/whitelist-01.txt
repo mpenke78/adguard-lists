@@ -1,1 +1,3 @@
 @@|metrics.icloud.com^$important
+@@|iadsdk.apple.com^$important
+@@|metrics.icloud.com^$important
