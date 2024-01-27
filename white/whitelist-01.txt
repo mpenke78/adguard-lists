@@ -1,3 +1,6 @@
-@@|metrics.icloud.com^$important
-@@|iadsdk.apple.com^$important
-@@|metrics.icloud.com^$important
+@@|apple.com^$important
+@@|icloud.com^$important
+@@||ard.de^
+@@||adobe.io^
+@@||adobe.com^
+@@||amazon.com^
