@@ -4,3 +4,4 @@
 @@||adobe.io^
 @@||adobe.com^
 @@||amazon.com^
+@@||amazon.de^
