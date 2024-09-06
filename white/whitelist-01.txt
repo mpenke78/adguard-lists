@@ -6,3 +6,5 @@
 @@||amazon.com^
 @@||amazon.de^
 @@||ad.doubleclick.net^
+@@||google-analytics.com^
+@@||adservice.google.com^
