@@ -5,3 +5,4 @@
 @@||adobe.com^
 @@||amazon.com^
 @@||amazon.de^
+@@||ad.doubleclick.net^
