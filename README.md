@@ -1,6 +1,8 @@
 # adguard-lists
 
-My personal white- & black-lists for AdGuard Home
+My personal white- & black-lists for AdGuard Home. 
+
+**I do not recommend using this!**
 
 ---
 
