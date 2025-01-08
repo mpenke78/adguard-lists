@@ -1,5 +1,6 @@
 @@|apple.com^$important
 @@|icloud.com^$important
+@@|mzstatic.com^$important
 @@||ard.de^
 @@||adobe.io^
 @@||adobe.com^
